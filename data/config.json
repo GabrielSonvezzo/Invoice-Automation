@@ -1,0 +1,33 @@
+{
+  "xml_folder": "./Pending_Invoices",
+  "processed_folder": "./Processed_Invoices",
+  "excel_file": "./production_planning.xlsx",
+  "batch_column": "W",
+  "sheet_name": "Steel Plant",
+  "default_supplier": 36003,
+  "column_map": {
+    "INVOICE": "C",
+    "ORDER": "D",
+    "SUPPLIER": "E",
+    "INV_DATE": "F",
+    "WEIGHT": "G",
+    "PROD": "H",
+    "QUALITY": "I",
+    "THICKNESS": "J",
+    "WIDTH": "K",
+    "TOTAL_VALUE": "L",
+    "TAX_ICMS": "M",
+    "TAX_IPI": "N",
+    "DUE_DATE": "T",
+    "BILLING": "U",
+    "INV_VALUE": "V",
+    "NCM": "Z"
+  },
+  "max_backups": 10,
+  "alert_due_days": 2,
+  "outlook_folder": "Invoices",
+  "outlook_active": false,
+  "automation_active": false,
+  "license_id": "",
+  "theme": "dark"
+}

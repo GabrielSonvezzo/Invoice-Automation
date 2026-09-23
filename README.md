@@ -235,3 +235,5 @@ icon or logo file, so no `--add-data` or `--icon` arguments are required.
 The **Outlook** screen is a placeholder for a planned integration that would
 monitor a mailbox, download invoice XMLs from incoming messages and process them
 without manual intervention. It is not implemented in this version.
+#   I n v o i c e - A u t o m a t i o n  
+ 
